@@ -1,0 +1,20 @@
+[
+    {
+        "descricao": "lanche",
+        "valor": 50.0,
+        "categoria": "comida",
+        "data": "09/05/2026 22:34"
+    },
+    {
+        "descricao": "caldos",
+        "valor": 30.0,
+        "categoria": "comida",
+        "data": "10/05/2026 00:49"
+    },
+    {
+        "descricao": "coca-cola",
+        "valor": 6.0,
+        "categoria": "bebida",
+        "data": "10/05/2026 00:50"
+    }
+]
